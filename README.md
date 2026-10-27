@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DonorDrive is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://donordrive.com/
+DonorDrive provides a fundraising platform that helps nonprofits and charitable organizations manage and grow donor relationships. The solution offers tools for online giving, event registration, donor management, and reporting, enabling supporters to easily contribute and organizations to track impact and engagement. With customizable campaigns, mobile-friendly donation pages, and integration capabilities, DonorDrive aims to boost stewardship and increase fundraising efficiency for nonprofits of all sizes.
+
+**Areas:** Company · Fundraising · Nonprofit · Donation Platform · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://donordrive.com/)
+- [Documentation](https://donordrive.com/resources/)
+- [GitHub](https://github.com/DonorDrive)
+- [Status](https://status.donordrive.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/donordrive/](https://apis.io/providers/donordrive/).
